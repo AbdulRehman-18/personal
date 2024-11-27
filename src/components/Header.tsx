@@ -107,7 +107,7 @@ export function Header() {
             </div>
             
             {/* Stats Cards */}
-            <div className="absolute -bottom-6 left-0 right-0 flex justify-center gap-4 px-4">
+{/*             <div className="absolute -bottom-6 left-0 right-0 flex justify-center gap-4 px-4">
               <div className="glass-card p-4 rounded-xl hover-lift text-center">
                 <Heart className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm text-gray-600">Looking for Love</div>
@@ -116,7 +116,7 @@ export function Header() {
                 <Coffee className="w-6 h-6 text-primary mx-auto mb-2" />
                 <div className="text-sm text-gray-600">Coffee Enthusiast</div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
