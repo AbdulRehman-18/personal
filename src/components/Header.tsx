@@ -54,7 +54,7 @@ export function Header() {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold romantic-heading float-up">
-              Looking for a lovely Life Partner x 4
+              Looking for a lovely Life Partners 💝 (x4)
             </h1>
             
             <p className="text-lg md:text-xl text-gray-700 max-w-xl mx-auto lg:mx-0 float-up" 
